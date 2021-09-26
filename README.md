@@ -3,3 +3,4 @@ Node api for serving static assets to personal projects. A common use case is fe
 
 
 
+test

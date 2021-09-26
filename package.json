@@ -1,0 +1,20 @@
+{
+  "name": "express-personal-asset-server",
+  "version": "1.0.0",
+  "description": "Node api for serving static assets to personal projects. A common use case is fetching dumby data for personal project or simulate fetching of media content. test54",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/en-la-nubes/express-personal-asset-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/en-la-nubes/express-personal-asset-server/issues"
+  },
+  "homepage": "https://github.com/en-la-nubes/express-personal-asset-server#readme"
+}
